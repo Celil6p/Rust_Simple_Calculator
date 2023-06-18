@@ -40,7 +40,7 @@ Makinenizde Rust'ın kurulu olması gerekmektedir. Rust'ı [resmi web sitesinden
 
 ## Kullanım
 
-Programı çalıştırdığınızda, bir işlem (Toplama için toplama, Cikartma için çıkartma, Carpma için çarpma, Bolme için bölme) ve iki sayı isteyecektir.
+Programı çalıştırdığınızda, bir işlem (toplama için "Toplama", Çıkartma için "Cikartma", çarpma için "Carpma", bölme için "Bolme") ve iki sayı isteyecektir.
 
 Önceki işlemin sonucunu bir sonraki işlemin ilk sayısı olarak kullanmak isterseniz, program ilk sayıyı sorduğunda enter tuşuna basın.
 
@@ -48,5 +48,5 @@ Programdan çıkmak için, program bir işlem istediğinde "Bitir" girin.
 
 ## Lisans
 
-Bu proje GNU General Public License 3.0 Lisansı altında lisanslanmıştır - detaylar için [LICENSE.md](LICENSE.md) dosyasına bakınız.
+Bu proje GNU General Public License 3.0 Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakınız.
 
